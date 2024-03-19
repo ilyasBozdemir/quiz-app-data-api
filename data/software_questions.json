@@ -1,0 +1,333 @@
+﻿[
+  {
+    "Id": 1,
+    "AskText": "Android uygulama geliştirmede en yaygın kullanılan programlama dili nedir?",
+    "Explanation": null,
+    "Difficulty": "Medium",
+    "QuestionOptions": [
+      {
+        "Id": 1,
+        "Text": "Java",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "C#",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Python",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "JavaScript",
+        "IsCorrect": false 
+      },
+      {
+        "Id": 5,
+        "Text": "Kotlin",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "AskText": "Web geliştirmede yaygın olarak hangi programlama dili kullanılıyor?",
+    "Explanation": null,
+    "Difficulty": "Easy",
+    "QuestionOptions": [
+      {
+        "Id": 1,
+        "Text": "Java",
+        "IsCorrect": false
+      },
+      {
+        "Id": 2,
+        "Text": "C#",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Python",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "JavaScript",
+        "IsCorrect": true
+      },
+      {
+        "Id": 5,
+        "Text": "HTML",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "AskText": "HTML, CSS ve JavaScript, hangi türdeki web geliştirme dilleridir?",
+    "Explanation": null,
+    "Difficulty": "Medium",
+    "QuestionOptions": [
+      {
+        "Id": 1,
+        "Text": "Backend",
+        "IsCorrect": false
+      },
+      {
+        "Id": 2,
+        "Text": "Frontend",
+        "IsCorrect": true
+      },
+      {
+        "Id": 3,
+        "Text": "Database",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Mobile",
+        "IsCorrect": false
+      },
+      {
+        "Id": 5,
+        "Text": "Networking",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "AskText": "Bir web sayfasına stiller uygulamak için hangi dil kullanılır?",
+    "Explanation": null,
+    "Difficulty": "Easy",
+    "QuestionOptions": [
+      {
+        "Id": 1,
+        "Text": "HTML",
+        "IsCorrect": false
+      },
+      {
+        "Id": 2,
+        "Text": "CSS",
+        "IsCorrect": true
+      },
+      {
+        "Id": 3,
+        "Text": "JavaScript",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Python",
+        "IsCorrect": false
+      },
+      {
+        "Id": 5,
+        "Text": "Ruby",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "AskText": "Nesne yönelimli programlamada, bir sınıfın farklı sürümlerinin genel adı nedir?",
+    "Explanation": null,
+    "Difficulty": "Medium",
+    "QuestionOptions": [
+      {
+        "Id": 1,
+        "Text": "Polimorfizm",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Kapsülleme",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Kalıtım",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Soyutlama",
+        "IsCorrect": false
+      },
+      {
+        "Id": 5,
+        "Text": "Arayüz",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "AskText": "Hangi dil web tarayıcılarında çalışmak için kullanılır?",
+    "Explanation": null,
+    "Difficulty": "Easy",
+    "QuestionOptions": [
+      {
+        "Id": 1,
+        "Text": "Java",
+        "IsCorrect": false
+      },
+      {
+        "Id": 2,
+        "Text": "Python",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "C#",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "JavaScript",
+        "IsCorrect": true
+      },
+      {
+        "Id": 5,
+        "Text": "Ruby",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 7,
+    "AskText": "Bir web uygulamasının sunucu tarafında çalışan bir dil hangisidir?",
+    "Explanation": null,
+    "Difficulty": "Medium",
+    "QuestionOptions": [
+      {
+        "Id": 1,
+        "Text": "Java",
+        "IsCorrect": false
+      },
+      {
+        "Id": 2,
+        "Text": "C#",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Python",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Node.js",
+        "IsCorrect": true
+      },
+      {
+        "Id": 5,
+        "Text": "Ruby on Rails",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 8,
+    "AskText": "Bir veritabanı sorgusu yapmak için hangi dil kullanılır?",
+    "Explanation": null,
+    "Difficulty": "Easy",
+    "QuestionOptions": [
+      {
+        "Id": 1,
+        "Text": "Java",
+        "IsCorrect": false
+      },
+      {
+        "Id": 2,
+        "Text": "C#",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Python",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "SQL",
+        "IsCorrect": true
+      },
+      {
+        "Id": 5,
+        "Text": "NoSQL",
+        "IsCorrect": false
+      }
+    ]
+  },
+    {
+      "Id": 9,
+      "AskText": "Hangisi bir veritabanı yönetim sistemi değildir?",
+      "Explanation": null,
+      "Difficulty": "Medium",
+      "QuestionOptions": [
+        {
+          "Id": 1,
+          "Text": "MySQL",
+          "IsCorrect": false
+        },
+        {
+          "Id": 2,
+          "Text": "PostgreSQL",
+          "IsCorrect": false
+        },
+        {
+          "Id": 3,
+          "Text": "MongoDB",
+          "IsCorrect": false
+        },
+        {
+          "Id": 4,
+          "Text": "Angular",
+          "IsCorrect": true
+        },
+        {
+          "Id": 5,
+          "Text": "SQLite",
+          "IsCorrect": false
+        }
+      ]
+    },
+    {
+      "Id": 10,
+      "AskText": "Hangisi bir metin tabanlı programlama dilidir?",
+      "Explanation": null,
+      "Difficulty": "Easy",
+      "QuestionOptions": [
+        {
+          "Id": 1,
+          "Text": "Java",
+          "IsCorrect": false
+        },
+        {
+          "Id": 2,
+          "Text": "C#",
+          "IsCorrect": false
+        },
+        {
+          "Id": 3,
+          "Text": "Python",
+          "IsCorrect": true
+        },
+        {
+          "Id": 4,
+          "Text": "JavaScript",
+          "IsCorrect": false
+        },
+        {
+          "Id": 5,
+          "Text": "Swift",
+          "IsCorrect": false
+        }
+      ]
+    }
+  ]
+  
